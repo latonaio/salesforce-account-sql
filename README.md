@@ -12,6 +12,8 @@ https://developer.salesforce.com/docs/atlas.ja-jp.218.0.object_reference.meta/ob
 salesforce-account-sql には、sqlの設定ファイルとして、以下のファイルが含まれています。    
 
 * salesforce-account-sql-account-data.sql（Salesforce アカウント - アカウントデータ）
+* salesforce-account-sql-account-partner-data.sql（Salesforce アカウント - アカウントパートナデータ）
+* salesforce-account-sql-account-relationship-data.sql（Salesforce アカウント - アカウントリレーションデータ）
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 
